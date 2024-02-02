@@ -11,8 +11,7 @@
 7. [Configuración](#configuración)
 8. [Uso](#uso)
 9. [Contribuciones](#contribuciones)
-10. [Licencia](#licencia)
-11. [Contacto](#contacto)
+10. [Contacto](#contacto)
 
 ## Información General
 
