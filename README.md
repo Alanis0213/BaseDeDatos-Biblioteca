@@ -69,15 +69,15 @@ Este proyecto implementa un Sistema de Gestión de Librería en Python a travez 
 ## Instrucciones de Uso
 1. Interactuar con el Menú Principal:
 
-    Una vez que el script esté en ejecución, se presentará un menú principal con opciones numeradas. dodne debe ingresa el número correspondiente a la operación que deseas realizar y presiona Enter, para que se ejecute la opcion.
+    Una vez que el script esté en ejecución, se presentará una ventana emergente con un principal en la parte superior, donde al seleccionar se desplegara las opciones internas que este contiene.
 
 2. Explorar las Funcionalidades:
+    Al seleccionarr  la opcion que desee ejecutar y se abrira una ventana emergente segundaria para realizar la operacion correspondiente a su seleccion. Utiliza las herramientas para trabajar con el programa.
 
-    Se presentarán menús secundarios según la opción seleccionada. Sigue las instrucciones en la consola para interactuar con las funcionalidades específicas, como ingresar clientes, libros, ventas entre otras opciones.
 
 3. Salir del Programa:
 
-    Una vez quieras finalizar la ejecucion del programa,puedes seleccionar la opción para salir del programa.
+    Una vez quieras finalizar la ejecucion del programa,puedes cerrar la ventana principal o parar la ejecucion desde tu editor.
 
 ## Estructura del Proyecto
 
