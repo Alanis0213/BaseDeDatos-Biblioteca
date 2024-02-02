@@ -6,15 +6,13 @@ from estadisticas import*
 
 root = Tk()
 root.title("Librería")
-root.iconbitmap("logo.ico")
+#root.iconbitmap("logo.ico")
 root.geometry(f"{900}x{400}+{100}+{50}")
-""" marco=Frame(root,width=3000,height=1000)
+marco=Frame(root,width=3000,height=1000)
 marco.config(bg="sky blue")  
-marco.pack() """
+marco.pack() 
 
-Imagen=PhotoImage(file="biblioteca.png")
-iblImage=Label(root,image=Imagen)
-iblImage.pack()
+
  
 menu_bar = Menu(root)
 
